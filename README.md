@@ -29,6 +29,6 @@ InMoLTs is only available for Android platform.
 ![alt text](https://github.com/asyrafjamil/TTS-Intelligent-Mobile-Language-Learning-Translation/blob/master/quizquest.jpg)
 
 **TTS Engine**
-![alt text](https://github.com/asyrafjamil/TTS-Intelligent-Mobile-Language-Learning-Translation/blob/master/tts engine.jpg)
+![alt text](https://github.com/asyrafjamil/TTS-Intelligent-Mobile-Language-Learning-Translation/blob/master/tts.jpg)
 
 
