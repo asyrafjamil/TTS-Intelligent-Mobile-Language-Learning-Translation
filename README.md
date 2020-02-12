@@ -16,7 +16,7 @@ TTS Intelligent Mobile Learning Language Translation (InMoLTS) is a mobile appli
 
 ## Supported Platform: Android
 
-InMoLTs is only available for Android platform.
+InMoLTs is only available for Android platform. Feel free to download the .apk file and install it! Thank you.
 
 
 
