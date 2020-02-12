@@ -20,7 +20,7 @@ TTS Intelligent Mobile Learning Language Translation (InMoLTS) is a mobile appli
 
 ## InMoLTs' Interfaces
 
-**Lesson page**
+**1. Lesson page**
 <p>
   <img width="300" height="600" src="https://github.com/asyrafjamil/TTS-Intelligent-Mobile-Language-Learning-Translation/blob/master/notes.jpg">
 </p>
@@ -29,7 +29,7 @@ TTS Intelligent Mobile Learning Language Translation (InMoLTS) is a mobile appli
   <img width="300" height="600" src="https://github.com/asyrafjamil/TTS-Intelligent-Mobile-Language-Learning-Translation/blob/master/lesson.jpg">
 </p>
 
-**Quiz page**
+**2. Quiz page**
 <p>
   <img width="300" height="600" src="https://github.com/asyrafjamil/TTS-Intelligent-Mobile-Language-Learning-Translation/blob/master/quiz.jpg">
 </p>
@@ -38,7 +38,7 @@ TTS Intelligent Mobile Learning Language Translation (InMoLTS) is a mobile appli
   <img width="300" height="600" src="https://github.com/asyrafjamil/TTS-Intelligent-Mobile-Language-Learning-Translation/blob/master/quizquest.jpg">
 </p>
 
-**Text to Speech Engine**
+**3. Text to Speech Engine**
 <p>
   <img width="300" height="600" src="https://github.com/asyrafjamil/TTS-Intelligent-Mobile-Language-Learning-Translation/blob/master/tts.jpg">
 </p>
