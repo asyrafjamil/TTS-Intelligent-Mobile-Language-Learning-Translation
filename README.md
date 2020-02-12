@@ -1,5 +1,9 @@
 # TTS-Intelligent-Mobile-Language-Learning-Translation (InMoLTs)
 
+<p align="center">
+  <img width="460" height="300" src="https://github.com/asyrafjamil/TTS-Intelligent-Mobile-Language-Learning-Translation/blob/master/inmolts.png">
+</p>
+
 I am happy to announce the release of InMoLTs. This release intends to share a mobile application that can teach basic German language.
 
 ## InMoLTs Mobile App
