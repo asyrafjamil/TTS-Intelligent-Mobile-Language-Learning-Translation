@@ -26,9 +26,22 @@ TTS Intelligent Mobile Learning Language Translation (InMoLTS) is a mobile appli
 </p>
 
 <p>
-  <img width="460" height="300" src="https://github.com/asyrafjamil/TTS-Intelligent-Mobile-Language-Learning-Translation/blob/master/lesson.jpg">
+  <img width="300" height="600" src="https://github.com/asyrafjamil/TTS-Intelligent-Mobile-Language-Learning-Translation/blob/master/lesson.jpg">
 </p>
 
+**Quiz page**
+<p>
+  <img width="300" height="600" src="https://github.com/asyrafjamil/TTS-Intelligent-Mobile-Language-Learning-Translation/blob/master/quiz.jpg">
+</p>
+
+<p>
+  <img width="300" height="600" src="https://github.com/asyrafjamil/TTS-Intelligent-Mobile-Language-Learning-Translation/blob/master/quizquest.jpg">
+</p>
+
+**Text to Speech Engine**
+<p>
+  <img width="300" height="600" src="https://github.com/asyrafjamil/TTS-Intelligent-Mobile-Language-Learning-Translation/blob/master/tts.jpg">
+</p>
 
 
 ## Supported Platform: Android
