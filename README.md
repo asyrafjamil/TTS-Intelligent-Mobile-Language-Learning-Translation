@@ -18,6 +18,19 @@ TTS Intelligent Mobile Learning Language Translation (InMoLTS) is a mobile appli
 
 * Text-to-speech engine is implemented as well.
 
+## InMoLTs' Interfaces
+
+**Lesson page**
+<p>
+  <img width="460" height="300" src="https://github.com/asyrafjamil/TTS-Intelligent-Mobile-Language-Learning-Translation/blob/master/notes.png">
+</p>
+
+<p>
+  <img width="460" height="300" src="https://github.com/asyrafjamil/TTS-Intelligent-Mobile-Language-Learning-Translation/blob/master/lesson.png">
+</p>
+
+
+
 ## Supported Platform: Android
 
 InMoLTs is only available for Android platform. Feel free to download the .apk file and install it! Thank you.
